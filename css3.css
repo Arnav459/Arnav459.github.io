@@ -1,0 +1,39 @@
+body{
+    background-color: #e3e2df;
+}
+
+.intro{
+    color:#5d001e;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 60px;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+
+.line{
+    text-align: center;
+    color: #123c69;
+    font-size: 30px;
+    font-family: 'DotGothic16', sans-serif;
+    margin-top: 80px;  
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px; 
+    width: 500px;
+    height: 300px;
+    border-style: hidden;
+    border-radius: 10px;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #24305e;
+    font-size: 35px;
+    
+}
